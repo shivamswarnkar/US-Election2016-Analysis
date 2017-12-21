@@ -32,7 +32,7 @@ To reproduce the results from Neural Network, you can run [NeuralNetTensor-flow.
 
 The file [BackpropogationEntrop.m](https://github.com/shivamswarnkar/US-Election2016-Analysis/blob/master/Neural%20Network/Backpropogation%20Algorithm/BackpropogationEntrop.m) (matlab file) is an attempt at making N0-N1-N2 type of Neural Network from scratch. This file is independent from project; therefore, it can be used to create and train any N0-N1-N2 type of Neural Network. This implementation uses cross-entropy as cost function, sigmoid as transfer function and quadratic cost function to calculate error, which is used as convergence condition.
 
-You can download [ProjectReport.pdf](https://github.com/shivamswarnkar/US-Election2016-Analysis/blob/master/Project%20Report.pdf) and [ProjectPresentation.pdf](https://github.com/shivamswarnkar/US-Election2016-Analysis/blob/master/Project%20Presentation.pdf) for more information. 
+You can download [ProjectReport.pdf](https://github.com/shivamswarnkar/US-Election2016-Analysis/blob/master/Project%20Report.pdf) for more information. 
 
 ### Note: 
 
